@@ -1,0 +1,7 @@
+key_vault_name        = "kviac42b41d0ce0354e82"
+key_vault_resource_id = "/subscriptions/98794bdb-04a7-4d63-8b5b-3e8687647f65/resourceGroups/TerraformDemo/providers/Microsoft.KeyVault/vaults/kviac42b41d0ce0354e82"
+admin_pw_name         = "admin-pw"
+location              = "eastus"
+environment           = "dev"
+rg_name               = "TerraformDemo"
+vm_name               = "vm1"
